@@ -3,3 +3,7 @@ console.log(a);
 
 let b = 20;
 console.log(a+b);
+
+
+let c= 30;
+console.log(a+b+c);
