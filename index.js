@@ -13,3 +13,5 @@ let d= 40;
 console.log(b+d,'This is Sum ');
 var ab =10;
 console.log(ab+a+b+c+d)
+
+console.log(a+b+c+d+c+e)
