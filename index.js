@@ -15,3 +15,4 @@ var ab =10;
 console.log(ab+a+b+c+d)
 
 console.log(a+b+c+d+c+e)
+console.log('hi')
