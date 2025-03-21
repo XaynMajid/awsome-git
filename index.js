@@ -25,3 +25,7 @@ let b2 = 2;
 console.log(a1+b2)
 
 console.log(a1+b2+d,"hello check")
+console.log(a1+b2+d,"hello check")
+console.log(a1+b2+d,"hello check")
+console.log(a1+b2+d,"hello check")
+console.log(a1+b2+d,"hello check")
